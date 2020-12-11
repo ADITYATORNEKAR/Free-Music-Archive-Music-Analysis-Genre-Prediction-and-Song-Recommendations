@@ -14,6 +14,10 @@ Classifier, Neural Networks and Random Forest Classifier to identify genre of th
 also applied K-means clustering algorithm to create song clusters and recommend a song which
 the user is most likely to enjoy.
 
+Repository Content:
+1) Music Analysis & Genre Prediction
+2) Project Report
+
 Project Files:
 1) Exploratory Data Analysis(InitialEDA.ipynb)
 2) Feature Engineering and Unsupervised K-Means for song recommendations (Feature Engineering.ipynb)
